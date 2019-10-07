@@ -1,4 +1,4 @@
-# Imprime elementos de uma lista separadas
+# Imprime elementos de uma lista separados por espaços
 
 lista = [1, 2, 3, 4, 5]
 
